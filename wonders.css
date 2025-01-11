@@ -1,0 +1,89 @@
+body{
+    font-family: verdana;
+
+}
+
+h1{
+    text-align: center;
+    background-color: lightcoral;
+}
+
+h2{
+    background-color: lightslategray;
+    text-align: center;
+    color: black;
+}
+
+table{
+    border: 3px solid purple;
+}
+
+tr, td{
+    border: 2px solid blue;
+    
+}
+
+th{
+    background-color: greenyellow;
+    border: 2px solid blue;
+}
+
+tr:hover{
+    background-color: blueviolet;
+    color: white;
+}
+
+input, textarea, select{
+    margin: 5px;
+    width: 150px;
+}
+
+#submit{
+    background-color: blueviolet;
+    color: white;
+}
+
+#submit:hover{
+    background-color: lightskyblue;
+    color: black;
+
+}
+
+a{
+    color: blueviolet;
+    text-decoration: none;
+}
+
+img{
+    width: 300px;
+    margin: 10px;
+    box-shadow: 10px 10px  10px grey;
+}
+
+table{
+    box-shadow: 10px 10px 10px grey;
+}
+
+div{
+    margin-top: 10px;
+}
+
+#canyon{
+    color: darkgreen;
+}
+
+#reef{
+    color: blue;
+}
+
+#everest{
+    color: grey;
+}
+
+h2, h1{
+    box-shadow: 10px 10px 10px grey
+}
+
+main{
+    display: flex;
+}
